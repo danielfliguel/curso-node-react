@@ -2,8 +2,8 @@
     "name": "curso-react-package",
     "version": "1.0.0",
     "scripts":{
-        "start": "nodemon server.js",
-        "debug": "nodemon --inspect server.js",
+        
+        "debug": "nodemon --inspect server.js"
         
     }
     
